@@ -12,6 +12,6 @@ For example, if you want to download Apple historical stock price (daily prices)
 Then you can find the result in a file named as 'AAPL.csv'
 
 Please remember that:
-  * Stock argument ('--stk') only accepts stock ticker symbol. It can be eith lowercase letters or capital letters.
+  * Stock argument ('--stk') only accepts stock ticker symbol. It can be either lowercase letters or capital letters.
   * Date arguments ('--s' and '--e') only accept dates in form of 'dd/mm/yyyy'
   * Frequency argument ('--fq') only accepts one of three values: 'd' (daily) or 'w' (weekly) or 'm' (monthly)
